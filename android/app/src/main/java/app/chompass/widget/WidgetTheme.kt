@@ -11,7 +11,8 @@ object WidgetTheme {
     private val accentNight = Color(0xFFD6A2BE)
     private val backgroundDay = Color(0xFFFFF6EC)
     private val backgroundNight = Color(0xFF170E16)
-    private val backgroundOled = Color(0xFF000000)
+    // modified by me
+    private val backgroundOled = Color(0x00000000)
     private val primaryTextDay = Color(0xFF1C131A)
     private val primaryTextNight = Color(0xFFFBF0F4)
     private val secondaryTextDay = Color(0xFF6E5C63)
